@@ -1,0 +1,5 @@
+s = input("Enter the string : ")
+a = s.upper()
+b = s.lower()
+c = s.swapcase()
+print(a,b,c)
