@@ -9,7 +9,7 @@ This repository contains my practice programs and web development projects.
 ### 🐍 Python Programs
 - Basic Python programs
 - Functions, Lists, Dictionaries
-- Loops and Conditional Statements
+- Loops and Conditional Statements 
 - Pattern programs
 
 ### 🌐 HTML & CSS Projects
@@ -24,6 +24,7 @@ A responsive Amazon homepage clone created using HTML and CSS.
 - Python
 - HTML5
 - CSS3
+- Numpy(data visulization)
 
 ## 🎯 Purpose
 This repository is created to showcase my programming practice and web development learning journey.
