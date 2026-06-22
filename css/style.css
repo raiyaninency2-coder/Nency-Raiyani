@@ -1,0 +1,75 @@
+/*color properties*/
+h1{
+    color: rgb(95, 24, 161);
+}
+
+h2{
+    color: rgb(8, 40, 40);
+}
+
+button{
+    color: darkorange;
+    background-color: black;
+}
+
+body{
+    background-color: rgb(168, 190, 231);
+}
+
+/* text properties*/
+
+p,h3{
+    text-align: center;
+}
+h3{
+    text-decoration: underline;
+}
+
+/*  text - weight*/
+h1{
+    font-weight: normal;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+h2{
+    font-weight: bold;
+    font-family :'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+h3{
+    font-weight: bolder
+}
+h4{
+    font-weight: lighter
+}
+
+/* border */
+#b1{
+    background-color: black;
+    text-align: center;
+    color: coral;
+    height: 35px;
+    width: 300px;
+    border: 3px rgb(147, 205, 152) double;
+    border-radius: 50%;
+}
+
+/* nevigation bar */
+
+div{
+    height: 60px;
+    background-color: black;
+}
+#f{
+    color: azure;
+    font-size: 30px;
+}
+#s{
+    color: antiquewhite;
+}
+#t{
+    color: antiquewhite;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}
